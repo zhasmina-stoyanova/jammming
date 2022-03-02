@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Before you start: Configure key
+In Spotify.js write the clientId from the Spotify app created with the dev account.
+In the Spotify Edit App options add 'http://localhost:3000/' to the Redirect URIs.
